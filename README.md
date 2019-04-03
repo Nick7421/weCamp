@@ -16,6 +16,7 @@ Before you get started, make sure you have the following software installed on y
 - [Nodemon](https://nodemon.io/)
 
 ## Create database and tables
+* Positico is a great application for using the database.
 
 * Create a new database called `wecamp`. Copy and paste the SQL from the database.sql into a
 new SQL query. All inserts must be done in order from top to bottom in the database.sql due to dependencies. 
