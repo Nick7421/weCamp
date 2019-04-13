@@ -25,6 +25,8 @@ new SQL query. All inserts must be done in order from top to bottom in the datab
 
 * In the table `camp` go to the `sponsored` column and change a couple camps to TRUE so they will show on the homepage. 
 
+* If there are no recent camps please update the timestamp in the `camp` table.
+
 
 ## Development Setup Instructions
 
